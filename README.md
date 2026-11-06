@@ -35,7 +35,7 @@ Cada lección incluye reglas, ejemplos traducidos, notas para resolver dudas hab
 
 - [Lección 21: Adjetivos y adverbios en inglés](21_adjetivos_vs_adverbios.md)
 - [Lección 22: HOW WELL y PRETTY, QUITE, VERY, REALLY](22_how_well_pretty_quite_very_really.md)
-- [Lección 23: Ejercicio de escucha fácil](23_escucha_adjetivos_adverbios.md)
+- [Lección 23: Ejercicio de escucha fácil y diferencias entre LOOK, SEE y WATCH](23_escucha_look_see_watch.md)
 
 - [Prueba 1: repaso de las lecciones 1 a 10](prueba_01_repaso_lecciones_01_a_10.md)
 - [Prueba 2: repaso de las lecciones 1 a 20](prueba_02_repaso_lecciones_01_a_20.md)
@@ -67,7 +67,7 @@ Después de la lección 10, realiza la prueba. Después de la lección 11, compa
 
 En las lecciones 16 y 20, usa lectura en voz alta del dispositivo o ayuda de otra persona y mantén ocultos los textos para practicar escucha y dictado. Los archivos no incluyen audio. En las lecciones 17 a 19, combina adverbios de frecuencia con preguntas HOW OFTEN y ejemplos de tu rutina. Registra tus respuestas y errores antes de consultar el solucionario.
 
-Después de la lección 20, resuelve la prueba 2 sin mirar las respuestas. En las lecciones 21 y 22, distingue cualidades, maneras de actuar y grados; en la lección 23, practica esos contenidos mediante un guion para escucha.
+Después de la lección 20, resuelve la prueba 2 sin mirar las respuestas. En las lecciones 21 y 22, distingue cualidades, maneras de actuar y grados; en la lección 23, aprende las diferencias entre LOOK, SEE y WATCH y practícalas mediante un guion para escucha.
 
 ## Vocabulario mínimo de las instrucciones
 
